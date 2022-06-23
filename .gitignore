@@ -1,0 +1,8 @@
+.idea/
+docs/
+emmanuelle/
+ex_machina/
+scraped_images/
+images.py
+main.py
+reader.py
